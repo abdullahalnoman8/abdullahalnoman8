@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalnoman8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalnoman8)](http://isradeleon.com/github-portfolio.html?user=abdullahalnoman8)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnoman8&layout=compact)](http://isradeleon.com/github-portfolio.html?user=abdullahalnoman8)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=abdullahalnoman8&count_private=true&theme=tokyonight&showicons=true)](http://isradeleon.com/github-portfolio.html?user=abdullahalnoman8)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnoman8d&langs_count=5&theme=tokyonight)](http://isradeleon.com/github-portfolio.html?user=abdullahalnoman8)
+
 
